@@ -135,7 +135,7 @@ blockquote p {
   display: flex;
   padding: 0 100px;
   justify-content: center;
-  background-image: url("characters.png");
+  background-image: url("images/characters.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 450px;
